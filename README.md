@@ -38,7 +38,9 @@ System Utility CLI là một công cụ dòng lệnh (CLI) mạnh mẽ để qu�
    - Kiểm tra tốc độ mạng và cấu hình mạng.
 
 ---
-
+## **Cách kiểm thử**
+bash
+pytest test/
 ## **Cách sử dụng**
 Chạy công cụ từ dòng lệnh:
 bash
