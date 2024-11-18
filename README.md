@@ -39,6 +39,7 @@ System Utility CLI là một công cụ dòng lệnh (CLI) mạnh mẽ để qu�
 
 ---
 ## **Cách kiểm thử**
+Chạy công cụ từ dòng lệnh:
 bash
 pytest test/
 ## **Cách sử dụng**
