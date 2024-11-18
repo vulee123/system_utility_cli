@@ -1,0 +1,5 @@
+psutil
+requests
+tqdm
+pytest
+python-dotenv
